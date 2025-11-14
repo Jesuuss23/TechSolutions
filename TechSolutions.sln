@@ -14,8 +14,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechSolutions.BLL", "TechSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechSolutions.Presentacion", "TechSolutions.Presentacion\TechSolutions.Presentacion.csproj", "{9F4D3F0E-E64F-4821-BCC3-89DA3DDF6ED8}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TechSolutions.Setup", "TechSolutions.Setup\TechSolutions.Setup.vdproj", "{1A069397-DEB5-D828-3738-0B3E67B9AC92}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,8 +36,6 @@ Global
 		{9F4D3F0E-E64F-4821-BCC3-89DA3DDF6ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F4D3F0E-E64F-4821-BCC3-89DA3DDF6ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F4D3F0E-E64F-4821-BCC3-89DA3DDF6ED8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1A069397-DEB5-D828-3738-0B3E67B9AC92}.Debug|Any CPU.ActiveCfg = Debug
-		{1A069397-DEB5-D828-3738-0B3E67B9AC92}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

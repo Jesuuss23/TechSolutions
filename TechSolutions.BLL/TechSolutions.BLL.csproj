@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TechSolutions.DAL\TechSolutions.DAL.csproj" />
+    <ProjectReference Include="..\TechSolutions.DAL\TechSolutions.DAL.csproj">
+      <Private>True</Private>
+    </ProjectReference>
     <ProjectReference Include="..\TechSolutions.Entidades\TechSolutions.Entidades.csproj" />
   </ItemGroup>
 

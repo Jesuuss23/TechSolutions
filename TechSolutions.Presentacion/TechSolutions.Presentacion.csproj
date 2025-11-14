@@ -21,8 +21,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TechSolutions.BLL\TechSolutions.BLL.csproj" />
-    <ProjectReference Include="..\TechSolutions.Entidades\TechSolutions.Entidades.csproj" />
+    <ProjectReference Include="..\TechSolutions.BLL\TechSolutions.BLL.csproj">
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\TechSolutions.Entidades\TechSolutions.Entidades.csproj">
+      <Private>True</Private>
+    </ProjectReference>
   </ItemGroup>
 
 </Project>
